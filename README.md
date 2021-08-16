@@ -1,0 +1,1 @@
+build and dist are not required. To share the src to someone we can share the dist and they can install that with pip.
